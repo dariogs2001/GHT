@@ -8,6 +8,6 @@ namespace GHT
 {
     class TestingClass
     {
-        //Here is were all my changes will go...
+        //Changes again...
     }
 }
